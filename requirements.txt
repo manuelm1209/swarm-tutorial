@@ -1,3 +1,6 @@
 python-dotenv
 streamlit
 tavily-python
+openai
+duckduckgo_search
+swarm
